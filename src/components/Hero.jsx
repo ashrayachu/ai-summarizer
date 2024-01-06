@@ -4,7 +4,7 @@ import Logo from '../assets/logo.svg'
 function Hero() {
   return (
  <header className='w-full flex justify-center items-center flex-col mb-10'>
-   <nav className='w-full flex justify-between align-center p-5 bg-slate-400 mb-5' >
+   <nav className='w-full flex justify-between align-center p-5  mb-5' >
     <img src={Logo} alt="Logo" />
     <button type='button' className='black_btn'
     onClick={()=>{window.open('https://github.com/ashrayachu')}}>Github</button>
