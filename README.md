@@ -1,8 +1,5 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The AI Summarizer web app, built with React, OpenAI GPT-4 API, and Tailwind CSS, condenses lengthy texts into concise summaries. Users input content, and the React-based interface seamlessly interacts with the GPT-4 API for advanced natural language processing. Tailwind CSS ensures a visually appealing and responsive design, creating an efficient tool for extracting key insights from large volumes of text.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
